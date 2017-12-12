@@ -1,4 +1,4 @@
-# Blurred-Image-to-Video
+# Blurred Image to Video
 
 ### Paper is under review. Code will be made available soon. 
 
