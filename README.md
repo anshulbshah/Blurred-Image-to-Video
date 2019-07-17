@@ -4,7 +4,7 @@ Designed a deep convolutional architecture to extract a sharp video from a motio
 
 Will be presented at IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019.
 
-Deblurring and Video Extraction Results on GoPro Benchmark and Blur Detection Dataset coming soon!
+Link to: Deblurring Results on GoPro Benchmark's test images: [Google Drive](https://drive.google.com/file/d/14bh90xksNJCNur0OMmjUhhzKdryvT3VC/view?usp=sharing)
 
 DEMO:
 Blurred Images:
