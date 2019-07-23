@@ -6,7 +6,7 @@ Oral presentation at IEEE Conference on Computer Vision and Pattern Recognition 
 
 Designed a deep convolutional architecture to extract a sharp video from a motion blurred image. The first stage involves unsupervised training of a novel spatiotemporal network for motion extraction from short video sequences. The above network is utilized for guided training of a CNN which extracts the same motion embedding from a single blurred image. The above networks are finally linked with our efficient deblurring network to generate the sharp video. Our framework delivers state-of-the-art accuracy in single image deblurring and video extraction while being faster and more compact. The work is among the first of its kind as the traditional algorithms extract only a single deblurred image.
 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Link to deblurring Results on GoPro Benchmark's test images: [Google Drive](https://drive.google.com/file/d/14bh90xksNJCNur0OMmjUhhzKdryvT3VC/view?usp=sharing)'
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Link to deblurring Results on GoPro Benchmark's test images: [Google Drive](https://drive.google.com/file/d/14bh90xksNJCNur0OMmjUhhzKdryvT3VC/view?usp=sharing)
 
 DEMO:
 Blurred Images:
